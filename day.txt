@@ -1,2 +1,3 @@
 1st line of day file
 append some line in day..txt
+replacing contents of day file : friday
