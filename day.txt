@@ -1,1 +1,2 @@
 1st line of day file
+append some line in day..txt
