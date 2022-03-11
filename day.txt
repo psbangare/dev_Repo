@@ -1,1 +1,1 @@
-1st line of day file
+replacing contents of day file : friday
